@@ -52,6 +52,11 @@ const PROCESS_STEPS = [
     title: "Design & Development",
     description: "I build your site with precision using WordPress and Elementor Pro, keeping you updated at each milestone for feedback.",
   },
+   {
+    number: "08",
+    title: "TEST",
+    description: "bas hocu da vidim da li se ovo ovde cacka... :D",
+  },
   {
     number: "04",
     title: "Review & Refine",
